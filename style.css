@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Lobster+Two:wght@700&family=Playfair+Display:ital@1&family=Pushster&display=swap');
+.main{
+    height: 1000px;
+    width: 100%;
+    background-color: chocolate;
+    position: relative;
+}
+h1{
+   color: rgb(53, 44, 32); 
+   text-align: center;
+  
+}
+a{
+    text-align: center;
+    color: rgb(22, 19, 19);
+    font-size: larger;
+    text-decoration: none;
+    margin-right: 300px;
+  
+    
+
+    
+}
+div p{
+    margin-top: 50px;
+    height: 400px;
+    width: 70%;
+    margin-left: 20px;
+}
+div img{
+    margin
+}
